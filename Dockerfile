@@ -1,2 +1,2 @@
-FROM srihari-byte/gitcode
+FROM hshar/webapp
 ADD . /var/www/html
